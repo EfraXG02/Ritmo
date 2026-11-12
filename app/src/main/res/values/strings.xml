@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ritmo</string>
+    <string name="artist_shuffle_title">Rádio por Cantor</string>
+    <string name="artist_shuffle_desc">Toque faixas aleatórias de qualquer artista instantaneamente</string>
+    <string name="play_random">Tocar Aleatório</string>
+    <string name="search_artist_hint">Digite o nome do cantor ou banda...</string>
+    <string name="now_playing">Tocando Agora</string>
+    <string name="library">Biblioteca</string>
+    <string name="discover">Descobrir</string>
+    <string name="favorites">Favoritos</string>
+</resources>

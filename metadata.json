@@ -1,0 +1,6 @@
+{
+  "name": "Ritmo",
+  "description": "Reprodutor de música inteligente com Rádio por Artista: reproduza músicas aleatórias de qualquer cantor instantaneamente sem precisar criar playlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
